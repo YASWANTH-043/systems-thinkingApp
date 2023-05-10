@@ -1,15 +1,17 @@
-# pool
+# courier pool
 
-A new Flutter project.
+#This file is to explain how to execute our file 
 
-## Getting Started
+Open VS code and click on settings button on left bottom corner >> select command palette >> then search bar would appear
+>> search for Git: Clone >> provide this repository url >> press on Clone from Git (You are set to go!).
+       
+                           (or)
+                           
+first download the files and open the folder in vs code or android studio.
+setup an android device emulator in android studio, which can also be opened in VS Code,
 
-This project is a starting point for a Flutter application.
+and then in terminal type the command 
+flutter pub get to add all the asset files like images, videos etc.
+flutter run to execute the code.
+Replace your Pubspec.yaml file with mine from dependencies sector.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

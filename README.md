@@ -4,9 +4,7 @@
 
 Open VS code and click on settings button on left bottom corner >> select command palette >> then search bar would appear
 >> search for Git: Clone >> provide this repository url >> press on Clone from Git (You are set to go!).
-       
-                           (or)
-                           
+                             (or)                           
 first download the files and open the folder in vs code or android studio.
 setup an android device emulator in android studio, which can also be opened in VS Code,
 
